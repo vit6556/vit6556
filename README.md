@@ -15,7 +15,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :man_student: 2nd year MEPhI student
+- :man_student: 3rd year MEPhI student
 - :man_technologist: Cybersecurity major
 - :telescope: Interested in Backend Development, DevOps and Cybersecurity
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-vit6556-white?style=flat&logo=telegram&logoColor=white)](https://t.me/vit6556)
